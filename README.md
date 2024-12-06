@@ -1,11 +1,15 @@
 # weather_app
 
 
-## Getting Started
+## Getting Started 
 ## Weather App using Getx state management
 ## We are using the 3.19.4 flutter SDK and dart version 3.3.2
 
-
+### Getting Started
+## Clone the Repository from weather_app_ branch
+## Install Dependencies - command -> flutter pub get
+## Run the App - command -> flutter run
+## Build Apk - command -> flutter build apk --release
 
 ### Features 🚀
 ## Weather Data: Displays the current weather, including temperature, humidity, wind speed, and more.
@@ -15,11 +19,7 @@
 ## Responsive UI: A user-friendly and professional interface.
 
 
-### Getting Started
-## Clone the Repository -
-## Install Dependencies - command -> flutter pub get
-## Run the App - command -> flutter run
-## Build Apk - command -> flutter build apk --release
+
 
 
 
