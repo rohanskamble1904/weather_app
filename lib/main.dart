@@ -7,6 +7,7 @@ import 'controllers/internet_controller.dart';
 
 
 void main() {
+
   WidgetsFlutterBinding.ensureInitialized();
   Get.put(InternetController(), permanent: true);
   LocationService.requestLocationPermission();
